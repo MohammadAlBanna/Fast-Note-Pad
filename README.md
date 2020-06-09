@@ -1,7 +1,7 @@
 # Fast-Note-Pad
 Fast NotePad is an Arabic editor that built using Java programming language since 2010, you can call it as mini ms-word editor ends with .fnp
 
-# Features:
+# Features
 - Supports tabs.
 - Change the background and some of the formalities of the program.
 - Supports drag-and-drop feature to open the files or to attach pictures.
@@ -18,7 +18,7 @@ Fast NotePad is an Arabic editor that built using Java programming language sinc
 ![](https://i.imgur.com/tFI0D97.png)
 ![](https://i.imgur.com/4xwIXhQ.png)
 
-#URLs
+# URLs
 [Watch a video](http://www.youtube.com/watch?v=mkV7zGdtZ24).
 
 [Personal Website](http://www.MBanna.info).
